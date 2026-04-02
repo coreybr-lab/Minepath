@@ -1,0 +1,5 @@
+{
+  "name": "MinePath",
+  "description": "A Minecraft-themed slot machine rogue-like with mining, crafting, and turn-based battles.",
+  "requestFramePermissions": []
+}
