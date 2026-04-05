@@ -1,7 +1,7 @@
 {
-  "id": "minepath-pwa-v6",
-  "name": "MinePath Slot Adventure",
-  "short_name": "MinePath",
+  "id": "spincraft-pwa-v1",
+  "name": "SpinCraft Slot Adventure",
+  "short_name": "SpinCraft",
   "description": "A Minecraft-themed slot machine rogue-like adventure.",
   "start_url": "/",
   "scope": "/",
@@ -11,56 +11,50 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://minecraft.wiki/images/Block_of_Diamond_JE4_BE3.png",
+      "src": "https://raw.githubusercontent.com/coreybr-lab/Minepath/refs/heads/main/file_00000000d08c71fd9291aa5e4bf648f5%7E2.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://minecraft.wiki/images/Block_of_Diamond_JE4_BE3.png",
+      "src": "https://raw.githubusercontent.com/coreybr-lab/Minepath/refs/heads/main/file_00000000d08c71fd9291aa5e4bf648f5%7E2.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icon.svg",
-      "sizes": "192x192",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    },
-    {
-      "src": "/icon.svg",
-      "sizes": "512x512",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    },
-    {
-      "src": "https://minecraft.wiki/images/Block_of_Diamond_JE4_BE3.png",
+      "src": "https://raw.githubusercontent.com/coreybr-lab/Minepath/refs/heads/main/file_00000000d08c71fd9291aa5e4bf648f5%7E2.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://minecraft.wiki/images/Block_of_Diamond_JE4_BE3.png",
+      "src": "https://raw.githubusercontent.com/coreybr-lab/Minepath/refs/heads/main/file_00000000d08c71fd9291aa5e4bf648f5%7E2.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/coreybr-lab/Minepath/refs/heads/main/file_00000000d08c71fd9291aa5e4bf648f5%7E2.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
   "screenshots": [
     {
-      "src": "/icon.svg",
+      "src": "https://raw.githubusercontent.com/coreybr-lab/Minepath/refs/heads/main/file_00000000d08c71fd9291aa5e4bf648f5%7E2.png",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "form_factor": "wide",
-      "label": "MinePath Gameplay"
+      "label": "SpinCraft Gameplay"
     },
     {
-      "src": "/icon.svg",
+      "src": "https://raw.githubusercontent.com/coreybr-lab/Minepath/refs/heads/main/file_00000000d08c71fd9291aa5e4bf648f5%7E2.png",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "form_factor": "narrow",
-      "label": "MinePath Mobile"
+      "label": "SpinCraft Mobile"
     }
   ]
 }
