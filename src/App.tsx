@@ -2647,7 +2647,7 @@ export default function App() {
             </h1>
             <div className="space-y-6">
               <p className="text-stone-400 max-w-xs mx-auto text-lg leading-relaxed font-bold">
-                a rogue-like slot adventure game <br/>
+                a new adventure awaits... <br/>
                 <span className="text-emerald-500 font-bold">Spin, Craft, Survive</span>
               </p>
               <button 
